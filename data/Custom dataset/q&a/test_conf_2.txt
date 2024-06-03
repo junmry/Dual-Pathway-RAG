@@ -1,0 +1,39 @@
+6. What core challenge does Sophia Nguyen's multimodal deep learning approach aim to solve?
+
+Answer 1: Multimodal deep learning aims to achieve joint modeling and mutual enhancement learning between different modalities of data (e.g., images, text, speech), thereby obtaining more comprehensive and accurate cognitive capabilities.
+
+Answer 2: Nguyen's novel multimodal deep learning framework strives to break down the barriers between multiple heterogeneous data modalities, enabling AI systems to acquire more powerful cognitive abilities beyond single modalities by fusing multi-source heterogeneous data.
+
+Answer 3: The core goal of this innovative approach is to overcome the bottleneck of deep learning in handling single-modality data by attempting to integrate text, images, speech, and other heterogeneous data, ultimately endowing AI with higher-level cognitive capabilities closer to humans.
+
+7. What advantages does Professor Crichton's DNA encoding technology offer over traditional genomic data storage methods?
+
+Answer 1: This DNA encoding technique can efficiently compress and encode large-scale genomic data, offering advantages such as larger capacity, longer storage life, and lower costs compared to traditional storage methods.
+
+Answer 2: Crichton's DNA encoding method, through a novel coding algorithm, can store vast amounts of genetic data in minuscule DNA molecules, not only achieving ultra-high storage density but also offering a lifespan of millions of years at low manufacturing costs.
+
+Answer 3: Unlike traditional storage of genomic data on paper or magnetic disks, this new technology uses DNA molecules as the storage medium, enabling exponential compression storage with large capacity, high stability, and low costs.
+
+8. What innovative work has Professor Dieter done in simulating chemical molecules with quantum computers?
+
+Answer 1: Professor Dieter has made pioneering contributions in using quantum computers to simulate chemical processes and molecular dynamics, paving the way for leveraging quantum advantages to accurately simulate complex chemical systems.
+
+Answer 2: This German quantum computing expert has proposed numerous innovative theories and algorithms for efficiently simulating molecular chemical reactions, intermolecular interactions, and more using quantum computers, laying the foundation for achieving quantum chemistry simulations.
+
+Answer 3: Professor Hans Dieter is a pioneer and leading figure in the field of quantum chemical simulations. He has made numerous breakthrough works in using quantum computing to simulate molecular energy level structures, chemical bond changes, and other processes, greatly advancing the development of this cutting-edge interdisciplinary field.
+
+9. In Ms. Mercier's opinion, what key role can AI technologies play in responding to new cybersecurity threats?
+
+Answer 1: Ms. Mercier believes that AI technologies can rapidly detect new network attack threats through intelligent pattern recognition and anomaly detection, thereby improving defense efficiency.
+
+Answer 2: She emphasizes the importance of AI in cybersecurity, arguing that AI algorithms can more accurately identify unknown attack patterns and counter increasingly intelligent hacking methods, providing efficient proactive defense.
+
+Answer 3: According to this French cybersecurity expert, AI will become a key force in addressing constantly evolving new cybersecurity threats by promptly discovering hidden risks through learning, pattern mining, and proactively formulating defensive countermeasures.
+
+10. What are Mr. Ruiz's views and predictions on the current state and future trends of self-driving technology in Europe?
+
+Answer 1: Mr. Ruiz believes that the self-driving industry in Europe is gaining strong momentum, with road tests already underway in multiple locations. In the future, it will accelerate towards commercialization and introduce more AI innovations in areas like planning and decision-making.
+
+Answer 2: This Spanish AI entrepreneur is optimistic about the development prospects of self-driving technology in Europe. He states that although still in its early stages, testing work is actively progressing in several countries, and as AI algorithms continue to improve, the commercialization process will accelerate.
+
+Answer 3: According to Ruiz's analysis, although a late starter, Europe is rapidly catching up in the field of autonomous driving. Leveraging its formidable AI technology capabilities, European companies will excel in areas like perception and decision-making, potentially emerging as a global autonomous driving powerhouse in the future.
